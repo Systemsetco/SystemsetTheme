@@ -2,7 +2,7 @@
     "name": "systemset-theme",
     "displayName": "Systemset Theme",
     "description": "A professional VS Code theme inspired by the Systemset brand with beautiful green gradients",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "SystemsetCo",
     "engines": {
         "vscode": "^1.74.0"

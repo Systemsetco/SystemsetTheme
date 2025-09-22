@@ -9,12 +9,12 @@ A professional Visual Studio Code theme inspired by the **Systemset brand**, fea
 ### Systemset Dark
 A sleek dark theme with pure black backgrounds and vibrant green accents that's perfect for long coding sessions and reduces eye strain.
 
-![Systemset Dark Preview](assets/preview-dark.png)
+![Systemset Dark Preview](https://github.com/Systemsetco/SystemsetTheme/blob/main/assets/preview-dark.png)
 
 ### Systemset Light  
 A clean light theme with crisp white backgrounds and carefully balanced green highlights for those who prefer bright interfaces.
 
-![Systemset Light Preview](assets/preview-light.png)
+![Systemset Light Preview](https://github.com/Systemsetco/SystemsetTheme/blob/main/assets/preview-light.png)
 
 ## 🌈 Color Palette
 
