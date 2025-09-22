@@ -1,0 +1,50 @@
+{
+    "name": "systemset-theme",
+    "displayName": "Systemset Theme",
+    "description": "A professional VS Code theme inspired by the Systemset brand with beautiful green gradients",
+    "version": "1.0.0",
+    "publisher": "SystemsetCo",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "light",
+        "green",
+        "systemset",
+        "professional",
+        "modern"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Systemset Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/systemset-dark-color-theme.json"
+            },
+            {
+                "label": "Systemset Light", 
+                "uiTheme": "vs",
+                "path": "./themes/systemset-light-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/systemset/vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/systemset/vscode-theme/issues"
+    },
+    "homepage": "https://github.com/systemset/vscode-theme#readme",
+    "license": "MIT",
+    "icon": "assets/icon_11zon.png",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    }
+}
